@@ -1,95 +1,100 @@
-<h1 align="center">Hi there, I'm [Berk 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20[YOUR_NAME]%20&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="github trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=8" />
+  </a>
+</p>
+
+<h2 align="center">🚀 Software Engineer | Problem Solver | Tech Enthusiast</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Systems;Crafting+Modern+UI/UX;Automating+Development+Workflows;Open+Source+Contributor" />
+</div>
+
+---
+
+### 📑 Executive Summary
+
+I am a results-driven **Software Engineer** dedicated to engineering high-quality, robust, and scalable digital solutions. My approach combines technical excellence with a focus on user-centric design and agile methodologies. I am deeply committed to continuous learning and staying at the forefront of emerging technologies.
+
+- 🔭 **Current Trajectory:** Architecting complex web environments and refining full-stack performance.
+- ⚡ **Expertise:** Bridging the gap between design and high-performance backend systems.
+- 🌱 **Growth Mindset:** Currently exploring **Distributed Systems**, **AI Integration**, and **System Scalability**.
+- 🏆 **Motivation:** Solving real-world problems through clean, maintainable, and efficient code.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend Architecture** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,sass" /> |
+| **Backend & Core Systems** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,go" /> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker" /> |
+| **Tools & Environments** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> |
+
+---
+
+### 📊 GitHub Momentum & Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&border_radius=10" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&border_radius=10" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=tokyonight" />
+</div>
+
+---
+
+### 📈 Weekly Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 ---
 
-### 🚀 Summary
-I am a passionate **Software Developer** focused on building high-performance, scalable web applications and exploring the depths of modern tech stacks. I thrive on solving complex problems and contributing to the global open-source community.
+### 🎵 On the Radar (Currently Playing)
+*Sharing a bit of my digital life outside of code.*
 
-- 🔭 **Current Focus:** Deep diving into **Full-Stack Architectures** and **Cloud Solutions**.
-- 🌱 **Learning:** Currently exploring **[SPECIFIC_TECH_YOU_ARE_LEARNING]** and system design patterns.
-- 👯 **Collaboration:** Open to collaborating on **innovative open-source projects**.
-- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, and Software Best Practices.
-
----
-
-### 💻 Technical Ecosystem
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_UID]&cover_image=true" />
+  </a>
+</div>
 
 ---
 
-### 📊 Performance Analytics
+### 🌐 Global Connectivity
+
+<div align="center">
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=false" alt="streak stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Visitors&color=0e75b6&style=flat-square" />
 </p>
